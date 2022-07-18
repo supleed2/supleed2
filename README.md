@@ -24,11 +24,13 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 
 ### Proficient in
 
+<p>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="60" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60" />
-<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="60" />
+<img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/light/github.svg" height="60" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_systemverilog.svg" height="60" />
 <img src="https://repository-images.githubusercontent.com/261007272/0bed6580-8d57-11ea-9ced-e434128458a0" height="60" />
+</p>
 
 - [VSCode](https://code.visualstudio.com/): Powerful code editor for modern development environments, amazing once you set up your extensions just right 🤌
 - [Git](https://git-scm.com/): Distributed version control system for tracking changes in source code, it has many neat tricks that aren't exactly discoverable
@@ -38,6 +40,7 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 
 ### Working Knowledge of
 
+<p>
 <img align="center" src="https://i1.wp.com/filecr.com/wp-content/uploads/2022/03/intel-quartus-prime-pro-edition-logo.png" height="60" />
 <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="60" />
 <img align="center" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" height="60" />
@@ -49,6 +52,7 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-office-excel.svg" height="60" />
 <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-office-powerpoint.svg" height="60" />
 <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-office-word.svg" height="60" />
+</p>
 
 - [Quartus Prime Lite](https://www.quartus.com/products/software/quartus-prime-lite/): Programmable Logic Controller and FPGA synthesis / flashing tool for SystemVerilog, Verilog and VHDL, with both source code and block diagram support
 - [Python](https://www.python.org/): High-level, interpreted general-purpose programming language that is finding its way into virtually every industry
@@ -62,9 +66,11 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 
 ### Familiar with
 
+<p>
 <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" height="60" />
 <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="60" />
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" height="60" />
+<img src="https://arewegameyet.rs/assets/img/rust-logo-blk-invert.svg" height="60" />
+</p>
 
 - [Discord API](https://discordapp.com/developers/): A chat platform with rich support for user interaction and embeds with automated "bot" accounts
 - [Go](https://golang.org/): Open-source, statically typed, compiled programming language with an emphasis on short compile times and excellent documentation
