@@ -87,7 +87,3 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=supleed2&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=supleed2&langs_count=10&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-## My GitHub Contributions as a Game of Life
-
-[![Animated GIF starting out as my GitHub contributions and then following the rules of a 4-strength levels version of The Game of Life](https://github4life.herokuapp.com/supleed2.gif)](https://github.com/ethomson/github4life)
