@@ -1,4 +1,4 @@
-# Hi there 👋 ![Profile views counter](https://komarev.com/ghpvc/?username=supleed2&color=00e6de)
+# Hi there 👋 ![Profile views counter](https://komarev.com/ghpvc/?username=supleed2&color=00e6de) [![](https://omg.8bitsqu.id/?user=8bit)](https://8bit.omg.lol)
 
 - 🔭 I’m currently working on building up this profile, my personal domain, and various subdomains
 - 🤩 I'm interested in Digital Design, Engineering and Software Infrastructure
