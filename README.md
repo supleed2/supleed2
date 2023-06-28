@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building up this profile, my personal domain, and various subdomains
 - 🤩 I'm interested in Digital Design, Engineering and Software Infrastructure
-- 🌱 I’m currently learning Python, and next Go
+- 🌱 I’m currently learning Rust 🦀
 - 💬 Ask me about anything, I like to learn and chat
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aadidesai/) / [Work Email](mailto:github@8bitsqu.id) / [Personal Email](mailto:aadi@8bitsqu.id)
 - 😄 Pronouns: he/him
@@ -18,6 +18,7 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 - [Mars Rover Project, Imperial Y2 Summer Term](https://github.com/supleed2/ELEC50003-P1-CW/): Group project to design and build an autonomous rover including subsystems for motion, power management and control / communication
 - [Pet Tracker Project, Imperial Y3 Autumn Term](https://github.com/supleed2/ELEC60013-ES-CW1/): Pet Tracker using the FindMy Network as a backbone to provide basic data return from onboard sensors and ultra-low-power location tracking
 - [Synthesizer Project, Imperial Y3 Spring Term](https://github.com/supleed2/ELEC60013-ES-CW2/): Firmware for a single-octave synthesizer, written in C++, with multiple waveforms and more octaves usable by connecting multiple together
+- [FPGA Accelerator for StackSynth, Imperial Y4 Final Project](https://github.com/supleed2/EIE4-FYP): Accelerator board for the `Synthesizer Project` above, using an OrangeCrab to produce audio samples with a much greater number of oscillators
 - [SystemVerilog VSCode Language Client Extension](https://github.com/dalance/svls-vscode/): A VSCode extension designed to work with the [svls](https://github.com/dalance/svls/) language server and provide in-editor feedback, as well as snippets and syntax highlighting for SystemVerilog files
 
 ## Tools / Languages
@@ -25,11 +26,11 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 ### Proficient in
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="60" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60" />
-<img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/light/github.svg" height="60" />
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_systemverilog.svg" height="60" />
-<img src="https://repository-images.githubusercontent.com/261007272/0bed6580-8d57-11ea-9ced-e434128458a0" height="60" />
+<img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="60" />
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="60" />
+<img align="center" src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/light/github.svg" height="60" />
+<img align="center" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_systemverilog.svg" height="60" />
+<img align="center" src="https://repository-images.githubusercontent.com/261007272/0bed6580-8d57-11ea-9ced-e434128458a0" height="60" />
 </p>
 
 - [VSCode](https://code.visualstudio.com/): Powerful code editor for modern development environments, amazing once you set up your extensions just right 🤌
@@ -41,12 +42,13 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 ### Working Knowledge of
 
 <p>
-<img align="center" src="https://i1.wp.com/filecr.com/wp-content/uploads/2022/03/intel-quartus-prime-pro-edition-logo.png" height="60" />
+<img align="center" src="https://arewegameyet.rs/assets/img/rust-logo-blk-invert.svg" height="60" />
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/q/quartus.svg" height="60" />
 <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="60" />
 <img align="center" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" height="60" />
 <img align="center" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="60" />
 <img align="center" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" height="60" />
-<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/platformio.svg" height="60" />
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/platformio.svg" height="60" />
 <img align="center" src="https://avatars.githubusercontent.com/u/22225832?s=280&v=4" height="60" />
 <img align="center" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="60" />
 <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-office-excel.svg" height="60" />
@@ -54,6 +56,7 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-office-word.svg" height="60" />
 </p>
 
+- [Rust](https://www.rust-lang.org/): General-purpose, memory-safe, compiled language with best-in-class performance and a compiler with extremely helpful error messages
 - [Quartus Prime Lite](https://www.quartus.com/products/software/quartus-prime-lite/): Programmable Logic Controller and FPGA synthesis / flashing tool for SystemVerilog, Verilog and VHDL, with both source code and block diagram support
 - [Python](https://www.python.org/): High-level, interpreted general-purpose programming language that is finding its way into virtually every industry
 - [SolidWorks](https://www.solidworks.com/): Advanced 3D CAD and CAM software for the design of complex products, I find its workflow to be the most intuitive of CAD programs
@@ -67,19 +70,17 @@ I've linked a few repositories below that I've worked on. Over time I'll also be
 ### Familiar with
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" height="60" />
-<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="60" />
-<img src="https://arewegameyet.rs/assets/img/rust-logo-blk-invert.svg" height="60" />
+<img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" height="60" />
+<img align="center" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="60" />
 </p>
 
 - [Discord API](https://discordapp.com/developers/): A chat platform with rich support for user interaction and embeds with automated "bot" accounts
 - [Go](https://golang.org/): Open-source, statically typed, compiled programming language with an emphasis on short compile times and excellent documentation
-- [Rust](https://www.rust-lang.org/): General-purpose, memory-safe, compiled language with best-in-class performance and a compiler with extremely helpful error messages
 
 ## My Education
 
-- 🎓 [Imperial College London](https://www.imperial.ac.uk/): September 2019 - Present
-  - Currently studying for an MEng in Electronics and Information Engineering
+- 🎓 [Imperial College London](https://www.imperial.ac.uk/): September 2019 - June 2023
+  - MEng in Electronics and Information Engineering, Final project mentioned [above](#some-of-my-projects)
 - 📚 [Queen Elizabeth's, Barnet](https://www.barnet.ac.uk/): September 2012 - August 2019
   - A Levels: A\* Maths, A\* Physics, A Further Maths (+AS Product Design)
 
