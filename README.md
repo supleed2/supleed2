@@ -1,4 +1,4 @@
-# Hi there 👋 ![Profile views counter](https://komarev.com/ghpvc/?username=supleed2&color=00e6de) [![](https://omg.8bitsqu.id/?user=8bit)](https://8bit.omg.lol)
+# Hi there 👋 ![Profile views counter](https://komarev.com/ghpvc/?username=supleed2&color=00e6de) [![omg.lol](https://omg.8bitsqu.id/?user=8bit)](https://8bit.omg.lol) [![](https://shields.io/badge/Support_me_on_Ko--fi-aadidesai-FF5E5B?style=flat&logo=kofi)](https://ko-fi.com/aadidesai)
 
 - 🔭 I’m currently working on building up this profile, my personal domain, and various subdomains
 - 🤩 I'm interested in Digital Design, Engineering and Software Infrastructure
