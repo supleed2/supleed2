@@ -4,8 +4,7 @@
 - ⛏️ I’m currently working on [go-chat](https://github.com/supleed2/go-chat) and this profile
 - 🔭 I'm interested in backend design and systems programming
 - 🌱 I’m currently learning Rust and Go
-- 💬 Reach out anytime, I like to learn and chat
-- 📫 Socials can be found on [my homepage](https://8bit.lol), or [connect on LinkedIn](https://www.linkedin.com/in/aadidesai)
+- 💬 Reach out anytime, via socials found on [my homepage](https://8bit.lol), [on LinkedIn](https://www.linkedin.com/in/aadidesai), or via [this form](https://blog.8bit.lol/contact)
 - 📝 I plan to document projects and thoughts on [this blog](https://blog.8bit.lol)
 - ⚡ Just got into indoor bouldering, it's tiring but exhilarating!
 - 💯 Markdown: we love human-readable formats
