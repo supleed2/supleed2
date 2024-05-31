@@ -15,7 +15,7 @@ Roughly in order of ability / preference
 
 ### Languages
 
-![Rust](https://shields.io/badge/Rust-E74700?style=flat&logo=rust&logoColor=white) ![Go](https://shields.io/badge/Go-01ADD8?style=flat&logo=go&logoColor=white) ![Python](https://shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998) ![C++](https://shields.io/badge/C++-044F88?style=flat&logo=cplusplus&logoColor=white) ![F#](https://shields.io/badge/F%23-4E8CBD?style=flat&logo=fsharp&logoColor=white)
+![Rust](https://shields.io/badge/Rust-E74700?style=flat&logo=rust&logoColor=white) ![Go](https://shields.io/badge/Go-01ADD8?style=flat&logo=go&logoColor=white) ![Python](https://shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998) ![C++](https://shields.io/badge/C++-044F88?style=flat&logo=cplusplus&logoColor=white) ![Zig](https://shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white) ![F#](https://shields.io/badge/F%23-4E8CBD?style=flat&logo=fsharp&logoColor=white)
 
 ### Tools
 
