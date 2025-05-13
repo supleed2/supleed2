@@ -15,15 +15,15 @@ Roughly in order of ability / preference
 
 ### Languages
 
-![Rust](https://shields.io/badge/Rust-E74700?style=flat&logo=rust&logoColor=white) ![Go](https://shields.io/badge/Go-01ADD8?style=flat&logo=go&logoColor=white) ![Python](https://shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998) ![C++](https://shields.io/badge/C++-044F88?style=flat&logo=cplusplus&logoColor=white) ![Zig](https://shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white) ![F#](https://shields.io/badge/F%23-4E8CBD?style=flat&logo=fsharp&logoColor=white)
+![Languages: Rust, Go, Python, C++, Zig](https://go-skill-icons.vercel.app/api/icons?titles=true&i=rust,golang,python,cpp,zig)
 
 ### Tools
 
-![Git](https://shields.io/badge/Git-3E2C00?style=flat&logo=git) ![VSCode](https://shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![GitHub](https://shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white) ![Cloudflare](https://shields.io/badge/Cloudflare-F48120?style=flat&logo=cloudflare&logoColor=white) ![Docker](https://shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white) ![Portainer](https://shields.io/badge/Portainer-0DB7ED?style=flat&logo=portainer&logoColor=white)
+![Tools: Git, VS Code, GitHub, Cloudflare, Docker, Powershell](https://go-skill-icons.vercel.app/api/icons?titles=true&i=git,vscode,github,cloudflare,docker,powershell)
 
 ### Other
 
-![Discord API](https://shields.io/badge/Discord_API-5865F2?style=flat&logo=discord&logoColor=white) ![Raspberry Pi](https://shields.io/badge/Raspberry_Pi-C7053D?style=flat&logo=raspberrypi&logoColor=white) ![PlatformIO](https://shields.io/badge/PlatformIO-E37B0D?style=flat&logo=platformio&logoColor=white) ![Arduino](https://shields.io/badge/Arduino-43A2A6?style=flat&logo=arduino&logoColor=white) ![SolidWorks](https://shields.io/badge/SolidWorks-DF1A21?style=flat&logo=dassaultsystemes&logoColor=white) ![Excel](https://shields.io/badge/Excel-347444?style=flat&logo=microsoftexcel&logoColor=white) ![PowerPoint](https://shields.io/badge/PowerPoint-C84C2B?style=flat&logo=microsoftpowerpoint&logoColor=white) ![Word](https://shields.io/badge/Word-3158a3?style=flat&logo=microsoftword&logoColor=white)
+![Other: Discord API, Raspberry Pi, PlatformIO, Arduino, Excel, Powerpoint, Word](https://go-skill-icons.vercel.app/api/icons?titles=true&i=discord,raspberrypi,platformio,arduino,excel,powerpoint,word)
 
 ## Recent Projects
 
